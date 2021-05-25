@@ -14,7 +14,7 @@ namespace vega.Models
         //foreign key will be created automatically based on Model object
         public int ModelId { get; set; }
 
-        public Model Modal { get; set; }
+        public Model Model { get; set; }
 
         public bool IsRegistered { get; set; }
 

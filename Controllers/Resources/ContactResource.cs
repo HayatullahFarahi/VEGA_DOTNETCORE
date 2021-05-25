@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace vega.Controllers.Resources
 {
-    public partial class VehicleResource
+    public partial class SaveVehicleResource
     {
         public class ContactResource
         {
